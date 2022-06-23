@@ -1,24 +1,24 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
+ affect your entire website. When you first
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: CloudContactAI
 
 # Your name to show in the footer
-author: Some Person
+author: CloudContactAI
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Website: "https://cloudcontactai.com"
+    - Login: "https://app.cloudcontactai.com/login"
+    - Sign Up: "https://app.cloudcontactai.com/register"
+  Author's home: "https://allcode.com"
 
 # --- Logo --- #
 
@@ -39,22 +39,22 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "support@cloudcontactai.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: cloudcontactai
+  github: cloudcontactai
+  twitter: cloudcontactai
+#  patreon: DeanAttali
+  youtube: c/cloudcontactai
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: cloudcontactai
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +14158906431
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
