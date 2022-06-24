@@ -14,7 +14,7 @@ author: CloudContactAI, LLC
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "aboutme"
+#  About: "aboutme"
   Resources:
     - Login: "https://app.cloudcontactai.com/login"
     - Register: "https://app.cloudcontactai.com/register"
