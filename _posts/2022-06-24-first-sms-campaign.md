@@ -11,8 +11,10 @@ This is a how to post to show you how to send your first SMS campaign with Cloud
 
 ***
 
+[![How to Create an SMS Campaign](/assets/img/ccai-youtube-video.png)](http://www.youtube.com/watch?v=SON6oCmmgcQ "How to Create an SMS Campaign")
+
 ### 1. [Go to Cloud Contact AI](https://app.cloudcontactai.com/inbox)
-After you've [registered](https://app.cloudcontactai.com/register) with CloudContactAI, , navigate to the [Inbox](https://app.cloudcontactai.com/inbox)
+After you've [registered](https://app.cloudcontactai.com/register) with CloudContactAI, navigate to the [Inbox](https://app.cloudcontactai.com/inbox)
 
 
 ### 2. Click on SMS CAMPAIGN
