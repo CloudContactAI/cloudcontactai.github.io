@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "First SMS Campaign with CloudContactAI"
-subtitle: How to launch your first sms campaign 
+subtitle: How to launch your first SMS campaign 
 permalink: /first-sms-campaign/
 tags: [How To]
 comments: true
