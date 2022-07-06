@@ -2,7 +2,7 @@
 
 # CloudContactAI
 
-> By [CloudContactAI LLLC](https://cloudcontactai.com) &middot; [Register](https://app.cloudcontactai.com/register/)
+> By [CloudContactAI LLC](https://cloudcontactai.com) &middot; [Register](https://app.cloudcontactai.com/register/) &middot; [Login](https://app.cloudcontactai.com/login/)
 
 **CloudContactAI** makes it fast, easy, and affordable to send SMS, Email, and Voice campaigns as well as engage in two-way conversations with your customers in real-time from the inbox of our intuitive web portal.
 
