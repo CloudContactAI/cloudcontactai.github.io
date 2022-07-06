@@ -22,7 +22,7 @@ __Check out [*What's New?*](https://www.cloudcontactai.com/features/) to see the
 
 - **SIMPLE**: The primary goal of CloudContactAI  is to allow literally *anyone* to send SMS, email, and voice campaigns to their customers in a few minutes.
 
-<h2 id="sponsors">Sponsors 🏆</h2>
+# Sponsors 🏆
 
 # Plans
 
