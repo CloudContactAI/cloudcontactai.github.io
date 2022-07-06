@@ -10,7 +10,6 @@
 
 - [Features](#features)
 - [Sponsors 🏆](#sponsors)
-- [**Build your website in 3 steps**](#build-your-website-in-3-steps)
 - [Plans](#plans)
 - [Featured users (success stories!)](#featured-users-success-stories)
 - [FAQ and support](#faq-and-support)
