@@ -1,3 +1,12 @@
+---
+layout: page
+title: "Invite an Additional User to CCAI"
+subtitle: You can invite an additional users to your CCAI account to enable them to manage the outbound process
+permalink: /invite-additional-users/
+tags: [How To]
+comments: true
+---
+
 # [Invite additional user](https://app.tango.us/app/workflow/47171a7e-5c0a-4fc6-9b72-c48264d1ece1?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 __Description:__ 
