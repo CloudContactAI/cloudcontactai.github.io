@@ -38,7 +38,7 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/47171a7e-5c0a-4fc6-9b72-c4
 
 
 ### 5. Type "buba@gmail.com"
-![Step 5 screenshot](https://images.tango.us/public/screenshot_cb5e8a21-a97c-466a-a691-f7abfe054011.png?crop=focalpoint&fit=crop&fp-x=0.5912&fp-y=0.4293&fp-z=1.3162&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
+![Step 5 screenshot](/assets/img/invite-additional-user-5-copy.jpg)
 
 
 ### 6. Select Client Admin from Role
