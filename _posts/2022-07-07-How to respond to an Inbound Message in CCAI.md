@@ -37,7 +37,7 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/b1189724-44b8-4544-98a5-4b
 
 
 ### 6. Click on Inbox (1)
-![Step 6 screenshot](https://images.tango.us/public/screenshot_b532b91e-814c-488c-9bf5-a606acfb9ff1.png?crop=focalpoint&fit=crop&fp-x=0.3232&fp-y=0.4804&fp-z=2.2675&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
+![Step 6 screenshot](/assets/img/respond-inbox-message.png)
 
 
 ### 7. Type "whats up?"
