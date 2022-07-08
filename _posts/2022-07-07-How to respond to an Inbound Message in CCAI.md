@@ -5,7 +5,7 @@ subtitle: You can respond to an Inbound Message in CCAI in order to continue con
 permalink: /respond-to-inbound-message/
 tags: [How To]
 comments: true
-
+---
 
 
 __Date:__ July 7, 2022
