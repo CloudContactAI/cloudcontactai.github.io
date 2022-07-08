@@ -20,13 +20,14 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/b1189724-44b8-4544-98a5-4b
 ![Step 1 screenshot](https://images.tango.us/public/screenshot_27b067df-8b90-40e2-be70-4f45378d40f3.png?crop=focalpoint&fit=crop&fp-x=0.8421&fp-y=0.0638&fp-z=2.8223&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
 
 
-### 2. Type "andreaspgarcia@gmail.com"
-![Step 2 screenshot](https://images.tango.us/public/screenshot_006e0549-cb80-4467-9576-da26f47fa94a.png?crop=focalpoint&fit=crop&fp-x=0.6308&fp-y=0.2480&fp-z=1.6349&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
+### 2. Type "harrypotter@gmail.com"
+![Step 2 screenshot](/assets/img/how-respond-inbound-message-2-3.png)
 
 
 ### 3. Type password
-![Step 3 screenshot](https://images.tango.us/public/screenshot_a96134e8-ea88-41de-9f8d-341a0da5a95e.png?crop=focalpoint&fit=crop&fp-x=0.6308&fp-y=0.3829&fp-z=1.6349&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
+![Step 3 screenshot](/assets/img/how-respond-inbound-message-2-3.png)
 
+how-respond-inbound-message-2-3.png
 
 ### 4. Click on LOG IN
 ![Step 4 screenshot](https://images.tango.us/public/screenshot_ab26e024-72ac-418e-b0d8-50e077db9c40.png?crop=focalpoint&fit=crop&fp-x=0.6308&fp-y=0.5671&fp-z=1.6349&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
