@@ -30,19 +30,20 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/47171a7e-5c0a-4fc6-9b72-c4
 
 
 ### 3. Click on Invitations
-![Step 3 screenshot](https://images.tango.us/public/screenshot_f15bb8af-6545-4f6f-8a6b-9ebb8ddf38e9.png?crop=focalpoint&fit=crop&fp-x=0.3114&fp-y=0.1433&fp-z=2.5361&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
+![Step 3 screenshot](/assets/img/invite-additional-user-3.png)
+
 
 
 ### 4. Click on  Invite User
 ![Step 4 screenshot](https://images.tango.us/public/screenshot_02727cc6-33d0-451c-a57e-68d9826971ce.png?crop=focalpoint&fit=crop&fp-x=0.2911&fp-y=0.2310&fp-z=2.3334&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
 
 
-### 5. Type "buba@gmail.com"
+### 5. Type "fredflintstone@gmail.com"
 ![Step 5 screenshot](/assets/img/invite-additional-user-5-copy.jpg)
 
 
 ### 6. Select Client Admin from Role
-![Step 6 screenshot](https://images.tango.us/public/screenshot_5ef0ba00-838e-4348-a3dc-4f7acc7eaf1c.png?crop=focalpoint&fit=crop&fp-x=0.5912&fp-y=0.5393&fp-z=1.3162&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
+![Step 6 screenshot](/assets/img/invite-additional-user-6.png)
 
 
 ### 7. Click on Invite
