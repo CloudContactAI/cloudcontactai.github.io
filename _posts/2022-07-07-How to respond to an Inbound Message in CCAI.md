@@ -1,4 +1,11 @@
-# [How to respond to an Inbound Message in CCAI](https://app.tango.us/app/workflow/b1189724-44b8-4544-98a5-4b714a1c9f4c?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+---
+layout: page
+title: "How to Respond to an Inbound Message in CCAI"
+subtitle: You can respond to an Inbound Message in CCAI in order to continue conversation with someone
+permalink: /respond-to-inbound-message/
+tags: [How To]
+comments: true
+---# [How to respond to an Inbound Message in CCAI](https://app.tango.us/app/workflow/b1189724-44b8-4544-98a5-4b714a1c9f4c?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 
 
