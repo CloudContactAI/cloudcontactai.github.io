@@ -25,7 +25,8 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/47171a7e-5c0a-4fc6-9b72-c4
 
 
 ### 2. Click on ADMIN
-![Step 2 screenshot](https://images.tango.us/public/screenshot_1df4dfce-1140-4906-9b0c-eb2bbfcc3b1f.png?crop=focalpoint&fit=crop&fp-x=0.0616&fp-y=0.5733&fp-z=2.9294&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
+![Step 2 screenshot](/assets/img/invite-additional-user-2.png)
+
 
 
 ### 3. Click on Invitations
