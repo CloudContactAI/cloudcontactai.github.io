@@ -27,7 +27,7 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/b1189724-44b8-4544-98a5-4b
 ### 3. Type password
 ![Step 3 screenshot](/assets/img/how-respond-inbound-message-2-3.png)
 
-how-respond-inbound-message-2-3.png
+
 
 ### 4. Click on LOG IN
 ![Step 4 screenshot](https://images.tango.us/public/screenshot_ab26e024-72ac-418e-b0d8-50e077db9c40.png?crop=focalpoint&fit=crop&fp-x=0.6308&fp-y=0.5671&fp-z=1.6349&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2248%3A1528)
