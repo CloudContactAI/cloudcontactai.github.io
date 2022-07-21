@@ -1,24 +1,22 @@
 ---
 layout: page
 title: " Add a New Client with CCAI "
-subtitle: You can add a new client with CCAI to have multiple accounts to message people
+subtitle: You can add a new client with CCAI to enable multiple virtual and physical locations to message people
 permalink: /add-new-client/
 tags: [How To]
 comments: true
 ---
 
-# [Add a New Client with CCAI](https://app.tango.us/app/workflow/b99a02e4-d85c-435e-b222-d934d952fbd8?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+# [How to Add a New Client with CCAI](https://app.tango.us/app/workflow/b99a02e4-d85c-435e-b222-d934d952fbd8?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 
 __Description:__ 
-Login to CCAI with the following link [https://app.cloudcontactai.com/login](https://app.cloudcontactai.com/login)
+CCAI is an enterprise solution that enables you to segment your business into multiple clients. For example, let's said that you have one location in San Francisco that wants to make use of a (415) area code, and another location in Urbana, Il that wants to make use of a (217) area code. With CCAI, you can set up a Client entitled San Francisco with a (415) phone number, you would then upload your San Francisco contacts to this Client. Next, you'd set up a Client entitled Urbana with a (217) phone number, you would then upload your Urbana contacts to this Client. Now, your CCAI account would have two separate client repositories with different phone numbers. The data from Client San Francisco would remain separate from your Urbana contacts. 
 
 
-__Date:__ July 8, 2022
+__Date:__ July 21, 2022
 
 __Author:__ Andreas Garcia
-
-__Source:__ [Tango](https://app.tango.us/app/workflow/b99a02e4-d85c-435e-b222-d934d952fbd8?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 ***
 
@@ -56,7 +54,3 @@ Then Login
 
 ### 9. Click on Fred Flintstone
 ![Step 9 screenshot](https://images.tango.us/public/screenshot_d9336e83-1232-4ab2-9d86-3e511077bbf7.png?crop=focalpoint&fit=crop&fp-x=0.7833&fp-y=0.0574&fp-z=2.8554&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2234%3A1394)
-
-
-***
-_[This workflow was created with Tango](https://app.tango.us/app/workflow/b99a02e4-d85c-435e-b222-d934d952fbd8?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)_

@@ -7,15 +7,11 @@ tags: [How To]
 comments: true
 
 ---
-# [Add a New Phone Number](https://app.tango.us/app/workflow/7725bdb4-e0ae-41d4-a076-6bbd93c75b51?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+# [How to Add a New Phone Number to Your CCAI Account](https://app.tango.us/app/workflow/7725bdb4-e0ae-41d4-a076-6bbd93c75b51?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
-
-
-__Date:__ July 8, 2022
+__Date:__ July 21, 2022
 
 __Author:__ Andreas Garcia
-
-__Source:__ [Tango](https://app.tango.us/app/workflow/7725bdb4-e0ae-41d4-a076-6bbd93c75b51?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 ***
 
@@ -30,7 +26,7 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/7725bdb4-e0ae-41d4-a076-6b
 ![Step 3 screenshot](https://images.tango.us/public/screenshot_80c1e638-27b1-4ded-bb77-0029843011ad.png?crop=focalpoint&fit=crop&fp-x=0.2592&fp-y=0.4347&fp-z=3.1242&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2234%3A1394)
 
 
-### 4. Click on Select a country to allocate your new client number:
+### 4. Click on Select a Country to Allocate your New Client Number:
 ![Step 4 screenshot](https://images.tango.us/public/screenshot_97951eae-2e8a-4a91-b584-cda24d36be16.png?crop=focalpoint&fit=crop&fp-x=0.5918&fp-y=0.5007&fp-z=1.3188&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2234%3A1394)
 
 
@@ -44,7 +40,3 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/7725bdb4-e0ae-41d4-a076-6b
 
 ### 7. Click on  Add Phone
 ![Step 7 screenshot](https://images.tango.us/public/screenshot_074e6125-eef0-4d43-bbec-473ccb870558.png?crop=focalpoint&fit=crop&fp-x=0.3082&fp-y=0.8142&fp-z=2.3098&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2234%3A1394)
-
-
-***
-_[This workflow was created with Tango](https://app.tango.us/app/workflow/7725bdb4-e0ae-41d4-a076-6bbd93c75b51?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)_

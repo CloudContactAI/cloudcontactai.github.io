@@ -1,16 +1,21 @@
-# [Create a Short Link with CCAI](https://app.tango.us/app/workflow/6fefe5cf-a0b5-4c7b-bb29-9c464e10d6c0?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+---
+layout: page
+title: " Create a Short Link with CCAI"
+subtitle: You can create a short list with CCAI to reduce the number of characters in your URL
+permalink: /create-short-link/
+tags: [How To]
+comments: true
+---
+# [How to Create a Short Link with CCAI](https://app.tango.us/app/workflow/6fefe5cf-a0b5-4c7b-bb29-9c464e10d6c0?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 
-
-__Date:__ July 8, 2022
+__Date:__ July 21, 2022
 
 __Author:__ Andreas Garcia
 
-__Source:__ [Tango](https://app.tango.us/app/workflow/6fefe5cf-a0b5-4c7b-bb29-9c464e10d6c0?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
 ***
 
-### 1. [Go to Cloud Contact AI](https://app.cloudcontactai.com/inbox)
+### 1. [Navigate to Cloud Contact AI](https://app.cloudcontactai.com/inbox)
 
 
 
@@ -37,6 +42,6 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/6fefe5cf-a0b5-4c7b-bb29-9c
 ### 7. Your Short link is created
 ![Step 7 screenshot](https://images.tango.us/public/image_a666c339-b2db-46fa-b8f8-7d788553cad9.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1692%3A482)
 
+### 8. Paste Your Short Link into an Email or SMS
+When you send the short link to your users in an Email or SMS with CCAI, when your user clicks on the Short Link, they'll be taken to the initial URL that you specified. In addition, in the Admin console of CCAI, you'll be able to you how many people have clicked on the short link. 
 
-***
-_[This workflow was created with Tango](https://app.tango.us/app/workflow/6fefe5cf-a0b5-4c7b-bb29-9c464e10d6c0?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)_
